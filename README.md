@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-![My 3D GitHub Profile](./profile-3d-contrib/profile-green-animate.svg)
+![My 3D GitHub Profile](./.github/workflows/profile-3d.yml/profile-green-animate.svg)
 
 
 <!--
