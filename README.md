@@ -14,7 +14,7 @@
 	</picture>
 </p>
 
-![My 3D GitHub Profile](./.github/workflows/profile-3d.yml/profile-green-animate.svg)
+![Oui](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **benjii66/benjii66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

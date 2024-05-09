@@ -1,13 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 18 * * *" # Définis l'heure à laquelle le workflow doit s'exécuter chaque jour (18:00 UTC)
-  workflow_dispatch: # Permet de déclencher le workflow manuellement
-
-  push:
-    branches:
-      - main
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -19,7 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          
       - name: Commit & Push
         run: |
           git config user.name github-actions
