@@ -6,13 +6,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/benjii66/benjii66/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benjii66/benjii66/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/benjii66/benjii66/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/benjii66/benjii66/output-3d-contrib/night.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benjii66/benjii66/output-3d-contrib/day.svg" />
+      <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/benjii66/benjii66/output-3d-contrib/day.svg" />
+    </picture>
 
 ![Oui](./profile-3d-contrib/profile-green-animate.svg)
 
