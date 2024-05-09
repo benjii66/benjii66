@@ -6,6 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake.svg">
 </picture>  
 
+![contributions](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--
 **benjii66/benjii66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
