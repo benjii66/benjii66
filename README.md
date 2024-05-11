@@ -11,13 +11,14 @@
 
 ---
 
-### 📫 Connect With Me
+### <p align="center"> 📫 Connect With Me </p>
 
-&nbsp;You can send me an email [benjamin51.simon@gmail.com](mailto:benjamin51.simon@gmail.com) or follow me on my [LinkedIn](https://www.linkedin.com/in/benjamiinsimon/)
+<p align="center">&nbsp;You can send me an email <a href="mailto:benjamin51.simon@gmail.com">benjamin51.simon@gmail.com</a> or follow me on my <a href="https://www.linkedin.com/in/benjamiinsimon/">LinkedIn</a> </p>
 
 <br/>
 
-⚡ Do you want to see more of my work ? Here's my [Portfolio](https://benjamin-simon.vercel.app)
+<p align="center">⚡ Do you want to see more of my work ? Here's my <a href="https://benjamin-simon.vercel.app">Portfolio</a> </p>
+
 
 ---
 
