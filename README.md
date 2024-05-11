@@ -1,9 +1,21 @@
-### 🤖 Benjamin Simon <img align="right" alt="Moon" width="50px" src="https://moon-svg.minung.dev/moon.svg?theme=ray">
+## 🤖 Benjamin Simon <img align="right" alt="Moon" width="50px" src="https://moon-svg.minung.dev/moon.svg?theme=ray">
 
-## **`From Web Integration to React Development, My Journey :`**
+#### <p align="center">**`From Web Integration to React Development, My Journey :`**</p>
 
 <br />
-👋 Hey there! I'm a web integrator with a keen interest in frontend development. With an incoming diploma in web integration, I'm delving into the real of frontend technologies, aiming to craft captivating user interfaces and seamless experiences. I'm particularly passionate about React, and I'm excited to incorporate it into my projects as I continue to grow as a frontend developer ! Join me on this journey as I merge my skills in web integration with the power of React !🚀
+<p align="center">Hey there! I'm a web integrator with a keen interest in frontend development. With an incoming diploma in web integration, I'm delving into the real of frontend technologies, aiming to craft captivating user interfaces and seamless experiences. I'm particularly passionate about React, and I'm excited to incorporate it into my projects as I continue to grow as a frontend developer ! Join me on this journey as I merge my skills in web integration with the power of React ! </p>
+
+### <p align="center">🚀</p>
+
+---
+
+### 📫 Connect With Me
+
+&nbsp;You can send me an email [benjamin51.simon@gmail.com](mailto:benjamin51.simon@gmail.com) or follow me on my [LinkedIn](https://www.linkedin.com/in/benjamiinsimon/)
+
+<br/>
+
+⚡ Do you want to see more of my work ? Here's my [Portfolio](https://benjamin-simon.vercel.app)
 
 ---
 
@@ -48,26 +60,26 @@
 </div>
 <br />
 
-#
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake.svg">
+<picture align="center">
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake.svg">
 </picture>
 
-![contributions](./profile-3d-contrib/profile-gitblock.svg)
-
 <details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <summary><b>📈&nbsp;&nbsp;Languages /&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/benjii66/'>
     <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=benjii66&padding=30&skills=JSON,JavaScript,CSS,HTML,TypeScript,C%23,Batchfile,SCSS,C++,C,Python,CoffeeScript'>
   </a>
 </details>
 
+<details>
+    <summary><b>🧩&nbsp;&nbsp;My Commits</b></summary>
+  
+![contributions](./profile-3d-contrib/profile-gitblock.svg)  
+</details>
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=benjii66)](https://github.com/KnlnKS/leetcode-stats) -->
-
 
 <!--
 **benjii66/benjii66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
