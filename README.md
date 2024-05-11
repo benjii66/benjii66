@@ -1,5 +1,4 @@
 ## 🤖 Benjamin Simon <img align="right" alt="Moon" width="50px" src="https://moon-svg.minung.dev/moon.svg?theme=ray">
-
 <br />
 
 #### <p align="center">**`From Web Integration to React Development, My Journey :`**</p>
@@ -19,10 +18,9 @@
 
 <p align="center">⚡ Do you want to see more of my work ? Here's my <a href="https://benjamin-simon.vercel.app">Portfolio</a> </p>
 
-
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <br />
 <div align = "center">
@@ -67,6 +65,7 @@
   <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake.svg">
 </picture>
+<br />
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Languages /&nbsp;Framework stats</b></summary>
@@ -82,22 +81,10 @@
 ![contributions](./profile-3d-contrib/profile-gitblock.svg)  
 </details>
 
+
+<!-- leet code  -->
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=benjii66)](https://github.com/KnlnKS/leetcode-stats) -->
 
-<!--
-**benjii66/benjii66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- ## Mes Projets
 
