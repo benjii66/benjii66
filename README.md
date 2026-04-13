@@ -1,11 +1,11 @@
-## 🤖 Benjamin Simon | Creative Developer <img align="right" alt="Moon" width="50px" src="https://moon-svg.minung.dev/moon.svg?theme=ray">
+## 🤖 Benjamin Simon | Creative Technologist <img align="right" alt="Moon" width="50px" src="https://moon-svg.minung.dev/moon.svg?theme=ray">
 
-#### <p align="center">**`Crafting Immersive Digital Experiences at the Intersection of Luxury & Tech`**</p>
+#### <p align="center">**`Merging High-End Aesthetics with Surgical Performance`**</p>
 
 <p align="center">
-  Founder of <b>BNJOStudio</b>. I specialize in merging high-end aesthetics with surgical performance. 
+  Founder of <b>BNJOStudio</b>. Specialized in crafting digital experiences that are impossible to ignore. 
   <br />
-  From bespoke animations to zero-latency SaaS, I build interfaces that are impossible to ignore.
+  From bespoke animations to zero-latency SaaS architectures.
 </p>
 
 <p align="center">
@@ -14,58 +14,41 @@
 
 ---
 
-### 📊 Professional Stats
-<div align="center">
-  <a href='https://profile.codersrank.io/user/benjii66/'>
-    <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=benjii66&padding=30&skills=TypeScript,JavaScript,Next.js,React,CSS,HTML' alt="CodersRank Stats">
+### 💎 Elite Recognition
+<p align="center">
+  <a href="https://profile.codersrank.io/user/benjii66/">
+    <img src="https://img.shields.io/badge/CodersRank-Top%201%25%20Worldwide-ff4500?style=for-the-badge&logo=codersrank&logoColor=white" />
   </a>
-</div>
+  <img src="https://img.shields.io/badge/Next.js-Top%2010%20France-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Top%2050%20France-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
 <br />
 
-### 🧰 The Stack
-
+### 🧰 The Master Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,threejs,nodejs,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,threejs,nodejs,cpp,cs,git,figma" />
 </div>
 
 ---
 
-### 📫 Connect With Me
+### 🚀 Featured Projects
+* **[JeskoJets](https://www.benjamin-simon.dev/project/jeskojets)** - High-end Jet Booking Platform (Next.js / Sanity / Stripe).
+* **[LoL Coaching AI]** - Real-time gaming analytics & AI-driven strategy tool.
+* **[Creative Portfolio](https://www.benjamin-simon.dev)** - Awwwards-inspired immersive experience.
 
+---
+
+### 📫 Connect With The Studio
 <p align="center">
   <a href="https://www.linkedin.com/in/benjamiinsimon/"><b>LinkedIn</b></a> • 
   <a href="https://www.benjamin-simon.dev"><b>Portfolio</b></a> • 
   <a href="mailto:benjamin51.simon@gmail.com"><b>Email</b></a>
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake.svg">
-</picture>
-
-<details>
-  <summary><b>🧩 My Commits & Activity</b></summary>
-  <br/>
-  ![contributions](./profile-3d-contrib/profile-gitblock.svg)
-</details>
-
-
-<!-- leet code  -->
-<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=benjii66)](https://github.com/KnlnKS/leetcode-stats) -->
-
-
-<!-- ## Mes Projets
-
-### Projet 1
-[![Statut](https://img.shields.io/badge/Statut-En%20Cours-blue)](lien_vers_le_projet)
-- Description brève du projet 1
-
-### Projet 2
-[![Statut](https://img.shields.io/badge/Statut-Terminé-success)](lien_vers_le_projet)
-- Description brève du projet 2
-
-### Projet 3
-[![Statut](https://img.shields.io/badge/Statut-En%20Pause-orange)](lien_vers_le_projet)
-- Description brève du projet 3
- -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/benjii66/benjii66/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
