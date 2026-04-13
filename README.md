@@ -32,13 +32,6 @@
 
 ---
 
-### 🚀 Featured Projects
-* **[JeskoJets](https://www.benjamin-simon.dev/project/jeskojets)** - High-end Jet Booking Platform (Next.js / Sanity / Stripe).
-* **[LoL Coaching AI]** - Real-time gaming analytics & AI-driven strategy tool.
-* **[Creative Portfolio](https://www.benjamin-simon.dev)** - Awwwards-inspired immersive experience.
-
----
-
 ### 📫 Connect With The Studio
 <p align="center">
   <a href="https://www.linkedin.com/in/benjamiinsimon/"><b>LinkedIn</b></a> • 
